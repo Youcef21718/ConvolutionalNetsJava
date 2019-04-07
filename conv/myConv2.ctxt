@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment1.params=a\ b
+comment1.target=double\ diff(double[],\ double[])
+comment10.params=input
+comment10.target=void\ print(double[])
+comment2.params=input\ d\ a
+comment2.target=double[]\ dil(double[],\ int,\ int)
+comment3.params=input\ p
+comment3.target=double[]\ pad(double[],\ int)
+comment4.params=input
+comment4.target=double[]\ rot(double[])
+comment5.params=input\ kernel\ p\ s
+comment5.target=double[]\ conv(double[],\ double[],\ int,\ int)
+comment6.params=input\ kernel\ p\ s
+comment6.target=double[][]\ convMat(double[],\ double[],\ int,\ int)
+comment7.params=a\ b\ transpose
+comment7.target=double[]\ mul(double[][],\ double[],\ boolean)
+comment8.params=n
+comment8.target=double[]\ rand(int)
+comment9.params=a
+comment9.target=void\ print(double[][])
+numComments=11

@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment1.params=output\ switches\ i
+comment1.target=double[][]\ trans_pool(double[][],\ int[][][],\ int[])
+comment10.params=n
+comment10.target=double[][]\ rand(int[])
+comment11.params=input
+comment11.target=void\ print(double[][])
+comment2.params=input\ k\ p\ s\ d\ a
+comment2.target=double[][][][]\ poolMat(double[][],\ int[],\ int[],\ int[],\ int[],\ int[])
+comment3.params=input\ switches\ k\ p\ s\ d\ a
+comment3.target=double[][]\ pool(double[][],\ int[][][],\ int[],\ int[],\ int[],\ int[],\ int[])
+comment4.params=i\ k\ p\ s\ d\ a
+comment4.target=int[][][]\ switches(int[],\ int[],\ int[],\ int[],\ int[],\ int[])
+comment5.params=a\ b\ transpose
+comment5.target=double[][]\ mul(double[][][][],\ double[][],\ boolean)
+comment6.params=x\ d
+comment6.target=int\ ceil_div(int,\ int)
+comment7.params=x\ y
+comment7.target=int\ max(int,\ int)
+comment8.params=x\ y
+comment8.target=int\ min(int,\ int)
+comment9.params=input
+comment9.target=int[]\ shape(double[][])
+numComments=12

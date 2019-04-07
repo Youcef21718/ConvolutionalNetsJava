@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment1.params=output\ switches\ i
+comment1.target=double[]\ trans_pool(double[],\ int[],\ int)
+comment10.params=input
+comment10.target=void\ print(double[])
+comment2.params=input\ k\ p\ s
+comment2.target=double[][]\ poolMat(double[],\ int,\ int,\ int)
+comment3.params=input\ switches\ k\ p\ s
+comment3.target=double[]\ pool(double[],\ int[],\ int,\ int,\ int)
+comment4.params=i\ k\ p\ s
+comment4.target=int[]\ switches(int,\ int,\ int,\ int)
+comment5.params=a\ b\ transpose
+comment5.target=double[]\ mul(double[][],\ double[],\ boolean)
+comment6.params=x\ y
+comment6.target=int\ max(int,\ int)
+comment7.params=x\ y
+comment7.target=int\ min(int,\ int)
+comment8.params=n
+comment8.target=double[]\ rand(int)
+comment9.params=input
+comment9.target=void\ print(double[][])
+numComments=11
